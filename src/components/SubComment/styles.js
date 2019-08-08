@@ -61,7 +61,7 @@ export default StyleSheet.create({
     color: theme.colors.white,
     marginBottom: theme.paddingH.pad5,
   },
-  poster: {
+  poster_inactive: {
     fontSize: theme.fontSize.p17,
     color: theme.colors.black,
     marginBottom: theme.paddingH.pad5,

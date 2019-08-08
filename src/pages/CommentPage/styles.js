@@ -45,4 +45,9 @@ export default StyleSheet.create({
     borderTopRightRadius: theme.paddingH.pad40,
     borderTopLeftRadius: theme.paddingH.pad40,
   },
+  commentList: {
+    display: 'flex',
+    justifyContent: 'flex-end',
+    height: '95%',
+  },
 });
